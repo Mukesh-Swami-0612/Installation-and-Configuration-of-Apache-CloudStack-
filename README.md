@@ -163,7 +163,7 @@ Step 43: sudo mount /mnt/primary
 
 Step 44: sudo mount /mnt/secondary
 
-Step 45: Open the Browser and type the url: http://192.168.11.159:8080/
+Step 45: Open the Browser and type the url: http://192.168.11.159:8080/      ADD here your ip 
 
 The following Page will open:
 Step 46: Provide the default Credentials:
